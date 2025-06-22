@@ -1,3 +1,5 @@
+/* The contents of this file can be used by other as they want , use VS code and cubmx to make the file as CMAKE with empty project and not generate the main file */
+
 #include <stdint.h>
 
 #define PERIPH_BASE         0x40000000UL
